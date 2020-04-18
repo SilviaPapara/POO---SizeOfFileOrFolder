@@ -1,0 +1,6 @@
+C:\Users\silvia1\Desktop\POO\SizeOfFileOrFolder\SizeOfFileOrFolder\bin\Debug\SizeOfFileOrFolder.exe.config
+C:\Users\silvia1\Desktop\POO\SizeOfFileOrFolder\SizeOfFileOrFolder\bin\Debug\SizeOfFileOrFolder.exe
+C:\Users\silvia1\Desktop\POO\SizeOfFileOrFolder\SizeOfFileOrFolder\bin\Debug\SizeOfFileOrFolder.pdb
+C:\Users\silvia1\Desktop\POO\SizeOfFileOrFolder\SizeOfFileOrFolder\obj\Debug\SizeOfFileOrFolder.csprojAssemblyReference.cache
+C:\Users\silvia1\Desktop\POO\SizeOfFileOrFolder\SizeOfFileOrFolder\obj\Debug\SizeOfFileOrFolder.exe
+C:\Users\silvia1\Desktop\POO\SizeOfFileOrFolder\SizeOfFileOrFolder\obj\Debug\SizeOfFileOrFolder.pdb
