@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -23,16 +23,17 @@ namespace SizeOfFileOrFolder
 
         static long SOD(DirectoryInfo info, bool b)
         {
-            long MarTot = info.EnumerateFiles()
-                         .Sum(file => file.Length);
-            if (b)
+            long Marime = info.EnumerateFiles().Sum(file => file.Length);
+
+            if (b!=false)
             {
-                MarTot += info.EnumerateDirectories()
-                         .Sum(dir => SOD(dir, true));
+                Marime += info.EnumerateDirectories().Sum(dir => SOD(dir, true));
+
             }
-            return MarTot;
+            return Marime;
         }
     
     }
 
 }
+
